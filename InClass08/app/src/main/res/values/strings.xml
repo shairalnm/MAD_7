@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">InClass07</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="textViewExpenseName">Expense Name:</string>
+    <string name="textViewExpenseCategory">Expense Category:</string>
+    <string name="textViewExpenseAmount">Expense Amount:</string>
+    <string name="textViewAddExpense">Add an Expense</string>
+    <string name="textViewAmount">Amount:</string>
+    <string name="textViewCategory">Category:</string>
+    <string name="categoryButton">Category</string>
+    <string-array name="categories_array">
+        <item>Select Category</item>
+        <item>Groceries</item>
+        <item>Invoice</item>
+        <item>Transportation</item>
+        <item>Shopping</item>
+        <item>Rent</item>
+        <item>Trips</item>
+        <item>Utilities</item>
+        <item>Other</item>
+    </string-array>
+    <string name="ButtonClose">Close</string>
+    <string name="ShowExpenseLabel">Expense Details</string>
+    <string name="ExpenseNameShowLabel">Name:</string>
+    <string name="ExpenseNameShow" />
+    <string name="CategoryShow">Category:</string>
+    <string name="CategoryShowData" />
+    <string name="AmountShowLabel">Amount:</string>
+    <string name="DateShowLabel">Date:</string>
+    <string name="AmountShow" />
+    <string name="ExpenseDateShow" />
+    <string name="buttonAddExpense">Add Expense</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="nameeditText">Name</string>
+    <string name="currentExpensestextView">Current Expenses:</string>
+    <string name="addButton">Add</string>
+    <string name="noExpenseView">There is no expense to show, Please add your expenses from the menu.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
